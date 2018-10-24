@@ -7,3 +7,7 @@ teste após gerar versão
 Teste Gostou do Curso? Quer mais.. até um café é válido.
 
 teste para validar alteração de arquivo e subir no GitHub
+
+Teste Git stash é lindo
+
+Usando Tags
