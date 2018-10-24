@@ -11,3 +11,5 @@ teste para validar alteração de arquivo e subir no GitHub
 Teste Git stash é lindo
 
 Usando Tags
+
+Teste: Salvando sua sexta com Git Revert
